@@ -84,15 +84,6 @@ class Scraper():
         return parsed_data
 
 
-    def getFileContents(self, fileTarget):
-        urls = []
-
-        for line in open(fileTarget, 'r'):
-            urls.append(line.strip()) 
-
-        return urls
-
-    
     def parseHTML(self, html, element, target, target_attribute='text', html_format=False):
         if target_attribute == 'text':
             try:
