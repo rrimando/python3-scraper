@@ -3,7 +3,7 @@ beautifulsoup4==4.7.1
 bs4==0.0.1
 datefinder==0.7.0
 DateTime==4.3
-protobuf==3.6.1
+protobuf==3.18.3
 python-dateutil==2.7.5
 pytz==2018.9
 regex==2019.1.24
