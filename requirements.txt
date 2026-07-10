@@ -8,5 +8,5 @@ python-dateutil==2.7.5
 pytz==2018.9
 regex==2019.1.24
 six==1.12.0
-soupsieve==1.7.3
+soupsieve==2.8.4
 zope.interface==4.6.0
